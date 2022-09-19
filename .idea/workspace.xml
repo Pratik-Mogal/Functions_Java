@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f73d2040-da2a-4d9c-b9fb-760b7fd58c0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pratik/Funnction_Program.java" afterDir="false" />
+    <list default="true" id="f73d2040-da2a-4d9c-b9fb-760b7fd58c0b" name="Changes" comment="Added the Comments">
+      <change afterPath="$PROJECT_DIR$/src/com/pratik/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratik/StringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pratik/Funnction_Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pratik/Funnction_Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +40,35 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Funnction_Program">
     <configuration name="Funnction_Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pratik.Funnction_Program" />
+      <module name="Functions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pratik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pratik.Greeting" />
+      <module name="Functions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pratik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pratik.StringExample" />
       <module name="Functions" />
       <extension name="coverage">
         <pattern>
@@ -60,6 +83,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Funnction_Program" />
+        <item itemvalue="Application.StringExample" />
+        <item itemvalue="Application.Greeting" />
       </list>
     </recent_temporary>
   </component>
@@ -72,6 +97,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663569710591</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added the Comments">
+      <created>1663571167865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663571167865</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,5 +117,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the Comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the Comments" />
   </component>
 </project>
