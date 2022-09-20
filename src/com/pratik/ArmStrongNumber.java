@@ -3,8 +3,12 @@ import java.util.Scanner;
 public class ArmStrongNumber {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int n = in.nextInt();
-        System.out.println(isArmstrong(n));
+        //Total ArmStrong Numbers find : - 153
+        for(int i = 100; i < 1000; i++){
+            if(isArmstrong(i)){
+                System.out.println(i + " ");
+            }
+        }
     }
     static boolean isArmstrong(int n){
         int original = n ;
